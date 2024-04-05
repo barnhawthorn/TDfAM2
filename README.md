@@ -11,7 +11,7 @@ https://ultimaker.com/software/ultimaker-cura/. Whilst the code has been tested 
 > THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 How to use the program:
-1. Ensure both files: "*TDfAM_Editor*" and "*appTDfAM.mlapp*" are saved in the same directory.
+1. Ensure both files: "*TDfAM_Editor.m*" and "*appTDfAM_inputUI.m*" are saved in the same directory.
 2. Save the G-code you wish to edit in this directory.
 3. Open the *TDfAM_Editor.m* in Matlab, and run the program.
 4. Navigate to your G-code and load it in to the program.
