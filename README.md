@@ -1,8 +1,7 @@
 # TDfAM2
-**Temporal Design for Additive Manufacturing**, a program to enable variation in nozzle temperature or print speed in user specified regions of the build. Compatible with G-code sliced in Cura.
+**Temporal Design for Additive Manufacturing**, a G-code post-processing program that enables variation in nozzle temperature or print speed in user specified regions of the build. Compatible with G-code sliced in Cura.
 
-This repository contains an in-silico proof in principle Matlab code to support Temporal Design for Additive Manufacturing (TDfAM). The development of the code has been published in The International Journal of Advanced Manufacturing Technology
-https://doi.org/... or in PDF format within this repository. 
+This repository contains an in-silico proof in principle Matlab code to support Temporal Design for Additive Manufacturing (TDfAM). The development of the code has been published in The International Journal of Advanced Manufacturing Technology which can be found at https://doi.org/10.1007/s00170-024-13532-9 or in PDF format within this repository. 
 
 Matlab and the associated license is required to run the programme. The software is licensed through an MIT license. 
 
